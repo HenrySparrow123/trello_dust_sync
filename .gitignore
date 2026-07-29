@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+sync.log
+.DS_Store
+venv/
+.venv/
+Dust - Assignment Henry Sparrow.pdf
