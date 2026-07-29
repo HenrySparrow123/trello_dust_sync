@@ -1,7 +1,3 @@
-# Solutions Engineering Assignment: Trello to Dust Data Pipeline
-**Candidate:** Henry Sparrow  
-**Selected Use Case:** Product Release Tracking  
-
 ## Overview
 
 This repository contains an automated Python data pipeline designed to transform unstructured project management data from Trello into structured, LLM-optimized Markdown chunks, syncing them directly into a Dust Data Source. 
